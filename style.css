@@ -26,6 +26,11 @@ h5 {
 	color: red;
 }
 
+img
+{
+	padding: 15px;
+}
+
 h4 {
   font-size: 30px;
   color: aquamarine;
@@ -33,6 +38,13 @@ h4 {
 
 p {
   font-size: 20px;
+  line-height: 1.6;
+}
+textarea 
+{
+	 resize: none;
+	 overflow: auto;
+
 }
 
 li a {
